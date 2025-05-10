@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
 
     iconImage:
     {
-        height: 400,
-        width: 400,
+        height: 350,
+        width: 250,
     }
 })

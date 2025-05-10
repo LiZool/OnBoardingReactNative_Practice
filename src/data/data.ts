@@ -11,24 +11,24 @@ export interface OnboardingData {
 const data: OnboardingData[] = [
     {
         id: 1,
-        image: require('../assets/images/cat.png'),
-        text: ' Lorem ipsum dolo sit 1',
+        image: require('../assets/images/exe0.png'),
+        text: ' Work out with us ',
         textColor: '#F8DAC2',
         backgroundColor: '#4F7942',
     },
 
     {
         id: 2,
-        image: require('../assets/images/raven.png'),
-        text: ' Lorem ipsum dolo sit 2',
+        image: require('../assets/images/exe1.png'),
+        text: ' Get Fit ',
         textColor: '#F8DAC2',
         backgroundColor: '#1D428A',
     },
 
     {
         id: 3,
-        image: require('../assets/images/horse.png'),
-        text: ' Lorem ipsum dolo sit 3',
+        image: require('../assets/images/exe2.png'),
+        text: ' Live Healthy ',
         textColor: '#F8DAC2',
         backgroundColor: '#FEBE10',
     },
